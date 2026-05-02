@@ -39,5 +39,5 @@ The tests verify:
 
 You can use this project as a downloadable companion for an article titled:
 
-**Refactoring bad C# code with solid principles:**
+**From Bad Code to Clean C# Code Using SOLID Principles:**
 https://pkey.info/knowledge-base/refactoring-bad-csharp-code-solid-principles/
