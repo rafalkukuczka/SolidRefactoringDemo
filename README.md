@@ -34,3 +34,10 @@ The tests verify:
 - service orchestration
 - validation failures
 - that repository and email sender are not called when validation fails
+
+## Suggested article section
+
+You can use this project as a downloadable companion for an article titled:
+
+**Refactoring bad C# code with solid principles:**
+https://pkey.info/knowledge-base/refactoring-bad-csharp-code-solid-principles/
